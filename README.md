@@ -1,3 +1,3 @@
 # GPRForwardSolver
-Commands for training the GPR forward solver:
+Commands for training and testing the GPR forward solver:
 python workpace/ForwardSolver.py
